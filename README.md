@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariarosales/)](linkedin.com/in/mariarosalesroman)
+[![Linkedin Badge](https://img.shields.io/badge/-mariarosales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariarosales/)](linkedin.com/in/mariarosalesroman)
 [![Outlook Badge](https://img.shields.io/badge/-maria99r@hotmail.com-c14438?style=flat-square&logo=Mail.ru&logoColor=white&link=mailto:maria99r@hotmail.com)](mailto:maria99r@hotmail.com)
 
 ## ⚡ Technologies
