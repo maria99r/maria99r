@@ -11,6 +11,7 @@ maria99r/maria99r is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-mariarosales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariarosales/)](linkedin.com/in/mariarosalesroman)
 -->
@@ -40,8 +41,14 @@ You can click the Preview link to take a look at your changes.
 
 <!--
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maria99r&theme=dracula)](https://github.com/maria99r/github-readme-stats)
+-->
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=maria99r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&hide=contribs,prs" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maria99r&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph" />
+</div>
 
+<!-- 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi) -->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi) -->
